@@ -1,0 +1,7 @@
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosAFahrenheit\ConversorDeGradosAFahrenheit\bin\Debug\ConversorDeGradosAFahrenheit.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosAFahrenheit\ConversorDeGradosAFahrenheit\bin\Debug\ConversorDeGradosAFahrenheit.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosAFahrenheit\ConversorDeGradosAFahrenheit\bin\Debug\ConversorDeGradosAFahrenheit.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosAFahrenheit\ConversorDeGradosAFahrenheit\obj\Debug\ConversorDeGradosAFahrenheit.csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosAFahrenheit\ConversorDeGradosAFahrenheit\obj\Debug\ConversorDeGradosAFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosAFahrenheit\ConversorDeGradosAFahrenheit\obj\Debug\ConversorDeGradosAFahrenheit.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosAFahrenheit\ConversorDeGradosAFahrenheit\obj\Debug\ConversorDeGradosAFahrenheit.pdb
