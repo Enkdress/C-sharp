@@ -1,0 +1,7 @@
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Sistema atencion a clientes\Sistema atencion a clientes\bin\Debug\Sistema atencion a clientes.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Sistema atencion a clientes\Sistema atencion a clientes\bin\Debug\Sistema atencion a clientes.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Sistema atencion a clientes\Sistema atencion a clientes\bin\Debug\Sistema atencion a clientes.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Sistema atencion a clientes\Sistema atencion a clientes\obj\Debug\Sistema atencion a clientes.csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Sistema atencion a clientes\Sistema atencion a clientes\obj\Debug\Sistema atencion a clientes.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Sistema atencion a clientes\Sistema atencion a clientes\obj\Debug\Sistema atencion a clientes.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Sistema atencion a clientes\Sistema atencion a clientes\obj\Debug\Sistema atencion a clientes.pdb

@@ -1,0 +1,7 @@
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Tabla De Multiplicar\bin\Debug\Tabla De Multiplicar.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Tabla De Multiplicar\bin\Debug\Tabla De Multiplicar.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Tabla De Multiplicar\bin\Debug\Tabla De Multiplicar.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Tabla De Multiplicar\obj\Debug\Tabla De Multiplicar.csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Tabla De Multiplicar\obj\Debug\Tabla De Multiplicar.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Tabla De Multiplicar\obj\Debug\Tabla De Multiplicar.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Tabla De Multiplicar\obj\Debug\Tabla De Multiplicar.pdb

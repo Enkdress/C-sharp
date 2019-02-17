@@ -1,0 +1,7 @@
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio Estudiantes\Promedio Estudiantes\obj\Debug\Promedio Estudiantes.csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio Estudiantes\Promedio Estudiantes\obj\Debug\Promedio Estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio Estudiantes\Promedio Estudiantes\bin\Debug\Promedio Estudiantes.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio Estudiantes\Promedio Estudiantes\bin\Debug\Promedio Estudiantes.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio Estudiantes\Promedio Estudiantes\bin\Debug\Promedio Estudiantes.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio Estudiantes\Promedio Estudiantes\obj\Debug\Promedio Estudiantes.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio Estudiantes\Promedio Estudiantes\obj\Debug\Promedio Estudiantes.pdb

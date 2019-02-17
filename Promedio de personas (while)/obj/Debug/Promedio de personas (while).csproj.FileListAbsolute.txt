@@ -1,0 +1,7 @@
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio de personas (while)\bin\Debug\Promedio de personas (while).exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio de personas (while)\bin\Debug\Promedio de personas (while).exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio de personas (while)\bin\Debug\Promedio de personas (while).pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio de personas (while)\obj\Debug\Promedio de personas (while).csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio de personas (while)\obj\Debug\Promedio de personas (while).csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio de personas (while)\obj\Debug\Promedio de personas (while).exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Promedio de personas (while)\obj\Debug\Promedio de personas (while).pdb
