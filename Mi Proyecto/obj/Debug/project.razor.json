@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\sacl2\\Documents\\Proyectos de programacion\\C#\\Capitulos 1 y 2\\MiProyecto.cs\\MiProyecto.cs.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

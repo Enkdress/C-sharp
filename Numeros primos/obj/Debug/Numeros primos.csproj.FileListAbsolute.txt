@@ -1,0 +1,7 @@
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Numeros primos\bin\Debug\Numeros primos.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Numeros primos\bin\Debug\Numeros primos.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Numeros primos\bin\Debug\Numeros primos.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Numeros primos\obj\Debug\Numeros primos.csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Numeros primos\obj\Debug\Numeros primos.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Numeros primos\obj\Debug\Numeros primos.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Numeros primos\obj\Debug\Numeros primos.pdb

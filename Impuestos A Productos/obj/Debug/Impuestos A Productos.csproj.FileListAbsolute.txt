@@ -1,0 +1,7 @@
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Impuestos A Productos\bin\Debug\Impuestos A Productos.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Impuestos A Productos\bin\Debug\Impuestos A Productos.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Impuestos A Productos\bin\Debug\Impuestos A Productos.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Impuestos A Productos\obj\Debug\Impuestos A Productos.csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Impuestos A Productos\obj\Debug\Impuestos A Productos.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Impuestos A Productos\obj\Debug\Impuestos A Productos.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Impuestos A Productos\obj\Debug\Impuestos A Productos.pdb

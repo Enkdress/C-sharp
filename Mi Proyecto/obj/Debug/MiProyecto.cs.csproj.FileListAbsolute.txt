@@ -1,0 +1,14 @@
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\MiProyecto.cs\MiProyecto.cs\obj\Debug\MiProyecto.cs.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\MiProyecto.cs\MiProyecto.cs\bin\Debug\MiProyecto.cs.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\MiProyecto.cs\MiProyecto.cs\bin\Debug\MiProyecto.cs.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\MiProyecto.cs\MiProyecto.cs\bin\Debug\MiProyecto.cs.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\MiProyecto.cs\MiProyecto.cs\obj\Debug\MiProyecto.cs.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\MiProyecto.cs\MiProyecto.cs\obj\Debug\MiProyecto.cs.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\MiProyecto.cs\MiProyecto.cs\obj\Debug\MiProyecto.cs.csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\MiProyecto.cs\bin\Debug\MiProyecto.cs.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\MiProyecto.cs\bin\Debug\MiProyecto.cs.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\MiProyecto.cs\bin\Debug\MiProyecto.cs.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\MiProyecto.cs\obj\Debug\MiProyecto.cs.csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\MiProyecto.cs\obj\Debug\MiProyecto.cs.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\MiProyecto.cs\obj\Debug\MiProyecto.cs.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\MiProyecto.cs\obj\Debug\MiProyecto.cs.pdb

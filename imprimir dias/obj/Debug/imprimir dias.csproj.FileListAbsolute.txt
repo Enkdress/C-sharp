@@ -1,0 +1,7 @@
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\imprimir dias\bin\Debug\imprimir dias.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\imprimir dias\bin\Debug\imprimir dias.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\imprimir dias\bin\Debug\imprimir dias.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\imprimir dias\obj\Debug\imprimir dias.csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\imprimir dias\obj\Debug\imprimir dias.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\imprimir dias\obj\Debug\imprimir dias.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\imprimir dias\obj\Debug\imprimir dias.pdb

@@ -1,0 +1,6 @@
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Numero y Exponente\bin\Debug\Numero y Exponente.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Numero y Exponente\bin\Debug\Numero y Exponente.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Numero y Exponente\bin\Debug\Numero y Exponente.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Numero y Exponente\obj\Debug\Numero y Exponente.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Numero y Exponente\obj\Debug\Numero y Exponente.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Numero y Exponente\obj\Debug\Numero y Exponente.pdb
