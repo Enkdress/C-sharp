@@ -1,0 +1,7 @@
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Divisor 0\bin\Debug\Divisor 0.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Divisor 0\bin\Debug\Divisor 0.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Divisor 0\bin\Debug\Divisor 0.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Divisor 0\obj\Debug\Divisor 0.csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Divisor 0\obj\Debug\Divisor 0.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Divisor 0\obj\Debug\Divisor 0.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Divisor 0\obj\Debug\Divisor 0.pdb

@@ -1,0 +1,7 @@
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\De grados centi a fahr\bin\Debug\De grados centi a fahr.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\De grados centi a fahr\bin\Debug\De grados centi a fahr.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\De grados centi a fahr\bin\Debug\De grados centi a fahr.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\De grados centi a fahr\obj\Debug\De grados centi a fahr.csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\De grados centi a fahr\obj\Debug\De grados centi a fahr.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\De grados centi a fahr\obj\Debug\De grados centi a fahr.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\De grados centi a fahr\obj\Debug\De grados centi a fahr.pdb

@@ -1,0 +1,14 @@
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosARadianes.cs\ConversorDeGradosARadianes.cs\bin\Debug\ConversorDeGradosARadianes.cs.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosARadianes.cs\ConversorDeGradosARadianes.cs\bin\Debug\ConversorDeGradosARadianes.cs.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosARadianes.cs\ConversorDeGradosARadianes.cs\bin\Debug\ConversorDeGradosARadianes.cs.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosARadianes.cs\ConversorDeGradosARadianes.cs\obj\Debug\ConversorDeGradosARadianes.cs.csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosARadianes.cs\ConversorDeGradosARadianes.cs\obj\Debug\ConversorDeGradosARadianes.cs.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosARadianes.cs\ConversorDeGradosARadianes.cs\obj\Debug\ConversorDeGradosARadianes.cs.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\Capitulos 1 y 2\ConversorDeGradosARadianes.cs\ConversorDeGradosARadianes.cs\obj\Debug\ConversorDeGradosARadianes.cs.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\ConversorDeGradosARadianes\ConversorDeGradosARadianes.cs\obj\Debug\ConversorDeGradosARadianes.cs.csprojAssemblyReference.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\ConversorDeGradosARadianes\ConversorDeGradosARadianes.cs\obj\Debug\ConversorDeGradosARadianes.cs.csproj.CoreCompileInputs.cache
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\ConversorDeGradosARadianes\ConversorDeGradosARadianes.cs\obj\Debug\ConversorDeGradosARadianes.cs.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\ConversorDeGradosARadianes\ConversorDeGradosARadianes.cs\obj\Debug\ConversorDeGradosARadianes.cs.pdb
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\ConversorDeGradosARadianes\ConversorDeGradosARadianes.cs\bin\Debug\ConversorDeGradosARadianes.cs.exe.config
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\ConversorDeGradosARadianes\ConversorDeGradosARadianes.cs\bin\Debug\ConversorDeGradosARadianes.cs.exe
+C:\Users\sacl2\Documents\Proyectos de programacion\C#\ConversorDeGradosARadianes\ConversorDeGradosARadianes.cs\bin\Debug\ConversorDeGradosARadianes.cs.pdb
