@@ -1,0 +1,7 @@
+C:\Users\Sergio\Documents\Proyectos de programacion\C#\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Sergio\Documents\Proyectos de programacion\C#\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Sergio\Documents\Proyectos de programacion\C#\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Sergio\Documents\Proyectos de programacion\C#\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\Sergio\Documents\Proyectos de programacion\C#\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\Proyectos de programacion\C#\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Sergio\Documents\Proyectos de programacion\C#\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
